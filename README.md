@@ -3,7 +3,7 @@ This repository contains the code and data used for reactive power compensation 
 integrated with a wind farm.
 
 ## Requirements
-Python 3.1
+Python 3.12
 
 ## Reproducing Results
 1. Install dependencies
