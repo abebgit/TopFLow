@@ -3,10 +3,14 @@ This repository contains the code and data used for reactive power compensation 
 integrated with a wind farm.
 
 ## Requirements
-Python 3.12
+The code was developed and tested using Python 3.12 and requires the following packages:
+- pandapower
+- pandas
+- numpy
+- matplotlib
+- scipy
+- xlrd
+- xlwt
+- xlutils
 
-## Reproducing Results
-1. Install dependencies
-2. Run TopFlow optimization script
-3. Save the results to the required directory
 
