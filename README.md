@@ -1,4 +1,4 @@
-MCR-SVC-Based Voltage Regulation Study
+MCR-SVC-Based Voltage Regulation Study:
 This repository contains the code and data used for reactive power compensation analysis of an MCR-SVC system
 integrated with a wind farm.
 
