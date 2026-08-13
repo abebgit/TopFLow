@@ -5,7 +5,7 @@ message: "If you use this software, please cite it as follows."
 type: software
 
 authors:
-- family-names: Bjarte
+- family-names: Fosso
     given-names: Olav 
   - family-names: Teshome
     given-names: Abeba Debru
