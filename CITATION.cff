@@ -4,11 +4,11 @@ message: "If you use this software, please cite it as follows."
 type: software
 version: 1.0.0
 authors:
-- family-names: Fosso
-given-names: Olav Bjarte
-- family-names: Teshome
-given-names: Abeba Debru
-- family-names: Molinas
-given-names: Maria Marta
-- family-names: Kahsay
-given-names: Mulu Bayray
+- family-names: "Fosso"
+given-names: "Olav Bjarte"
+- family-names: "Teshome"
+given-names: "Abeba Debru"
+- family-names: "Molinas"
+given-names: "Maria Marta"
+- family-names: "Kahsay"
+given-names: "Mulu Bayray"
